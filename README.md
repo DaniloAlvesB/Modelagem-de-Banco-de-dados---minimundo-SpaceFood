@@ -1,4 +1,4 @@
-# Sistema de Delivery - Banco de Dados
+# SpaceFood, Sistema de Delivery - Banco de Dados
 
 Projeto desenvolvido para a disciplina de **Modelagem de Banco de Dados** do 1º Semestre.
 
