@@ -3,7 +3,7 @@
 -- Banco de Dados: Sistema de Delivery
 -- =====================================================
 
-USE `mydb`;
+USE `space_food`;
 
 -- -----------------------------------------------------
 -- CONSULTA 1: Listar todos os clientes ordenados por nome
